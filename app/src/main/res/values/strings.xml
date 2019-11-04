@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="github_api">https://api.github.com/</string>
+    <string name="github_api_token">6580edf7461dac116b66b8f682d27e65d464e878</string>
+    <string name="search_repository">поиск по репозиториям</string>
+    <string name="nothing_found">Ничего не найдено</string>
+    <string name="userDescription">repositories: %d\nfollowers: %d\nstargazers: %d</string>
+    <string name="repositoryDescription">forks: %d\nwatchers: %d\nstargazers: %d</string>
+</resources>
